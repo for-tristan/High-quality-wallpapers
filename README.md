@@ -1,5 +1,13 @@
 a collection of my personal favorite High quality wallpapers for Windows and Linux
 
+## installion 
+### Windows/Linux
+```sh
+git clone https://github.com/for-tristan/High-quality-wallpapers
+  ```
+
+
+
 Wallpapers 1: 
 ![gandr-collage (1)](https://github.com/user-attachments/assets/b3cf4138-db93-4870-8623-47148c66ab1d)
 
