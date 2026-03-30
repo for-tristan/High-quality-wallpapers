@@ -1,8 +1,7 @@
 a collection of my personal favorite High quality wallpapers for Windows and Linux
 
 Wallpapers 1: 
-<img width="1649" height="923" alt="Untitled design" src="https://github.com/user-attachments/assets/aa2ba412-0340-4661-824f-d1f8c810c38a" />
-
+![gandr-collage (1)](https://github.com/user-attachments/assets/b3cf4138-db93-4870-8623-47148c66ab1d)
 
 Wallpapers 2:
-<img width="1245" height="982" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/ef30bbef-51a2-48c4-b60d-aa07d24f7df7" />
+![gandr-collage](https://github.com/user-attachments/assets/a2af40f2-2ceb-4b8f-a02c-1bf187dc512f)
