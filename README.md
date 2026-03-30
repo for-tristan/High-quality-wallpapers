@@ -3,7 +3,7 @@ a collection of my personal favorite High quality wallpapers for Windows and Lin
 ## installion 
 ### Windows
 _Click the Green "Code" Button then "downlooad Zip*_
-
+## 
 ### Linux
 ```sh
 git clone https://github.com/for-tristan/High-quality-wallpapers
@@ -26,3 +26,8 @@ git clone https://github.com/for-tristan/High-quality-wallpapers
 
 ### Wallpapers 5:
 ![gandr-collage (2)](https://github.com/user-attachments/assets/668339b3-392a-4e6f-ae97-754cf708f493)
+
+
+### _more will be added soon_
+
+
