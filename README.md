@@ -2,7 +2,7 @@ a collection of my personal favorite High quality wallpapers for Windows and Lin
 
 ## installion 
 ### Windows
-_Click the Green "Code" Button then "downlooad Zip*_
+_Click the Green "Code" Button then "Downlooad Zip*_
 ## 
 ### Linux
 ```sh
