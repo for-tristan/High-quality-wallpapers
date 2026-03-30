@@ -1,7 +1,10 @@
 a collection of my personal favorite High quality wallpapers for Windows and Linux
 
 ## installion 
-### Windows/Linux
+### Windows
+_Click the Green "Code" Button then "downlooad Zip*_
+
+### Linux
 ```sh
 git clone https://github.com/for-tristan/High-quality-wallpapers
 ```
